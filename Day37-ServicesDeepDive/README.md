@@ -155,7 +155,8 @@ To stop the tunnel, interrupt the process:
 use the bellow
 
 
-![image](https://github.com/VinaykumarKareti/Devops-Course/assets/105053576/76740d8b-33d9-4031-b8c2-ed9614aa5c42)
+![image](https://github.com/VinaykumarKareti/Devops-Course/assets/105053576/f5f03e17-cfdd-408a-896f-42be997b97ac)
+
 
 
 
