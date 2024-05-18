@@ -149,6 +149,16 @@ To stop the tunnel, interrupt the process:
    pkill -f 'minikube tunnel'
    ```
 
+
+
+**If any issue related to connection failed when tried with minikube ip address
+use the bellow
+
+
+![image](https://github.com/VinaykumarKareti/Devops-Course/assets/105053576/76740d8b-33d9-4031-b8c2-ed9614aa5c42)
+
+
+
 ### Summary
 
 1. Start Minikube.
